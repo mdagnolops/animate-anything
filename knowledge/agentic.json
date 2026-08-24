@@ -65,7 +65,10 @@
   },
   {
    "id": "repo:lottie-react-native",
-   "agentic": [],
+   "agentic": [
+    "agents-md",
+    "claude-md"
+   ],
    "agentic_probe": "github:lottie-react-native/lottie-react-native"
   },
   {

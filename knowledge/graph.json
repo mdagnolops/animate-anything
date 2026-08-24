@@ -535,6 +535,10 @@
    "stars": 17000,
    "summary": "Lottie for React Native.",
    "confidence": 0.95,
+   "agentic": [
+    "agents-md",
+    "claude-md"
+   ],
    "agentic_probe": "github:lottie-react-native/lottie-react-native"
   },
   {

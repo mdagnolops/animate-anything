@@ -33,7 +33,7 @@
 - 🥇 Lottie (lottie-web) — Play After-Effects vector animations as JSON on the web. The foundation (aging). · MIT [https://github.com/airbnb/lottie-web]
 - 🥇 Rive — Interactive, state-machine vector animation — small, real-time, input-driven. · MIT runtimes (editor SaaS) [https://github.com/rive-app/rive-runtime]
 - 🥇 dotLottie — The modern Lottie player/format (compressed, themable). · MIT · agentic: skill-md [https://github.com/LottieFiles/dotlottie-web]
-- 🥇 lottie-react-native — Lottie for React Native. · Apache-2.0 [https://github.com/lottie-react-native/lottie-react-native]
+- 🥇 lottie-react-native — Lottie for React Native. · Apache-2.0 · agentic: agents-md+claude-md [https://github.com/lottie-react-native/lottie-react-native]
 - 🥇 platform LottieFiles — The vector-animation ecosystem — marketplace, tools, players, MCP. · Proprietary SaaS (free tier) [https://lottiefiles.com]
 - 🥈 SVGator — No-code SVG animation editor. · Proprietary SaaS (free tier) [https://svgator.com]
 
