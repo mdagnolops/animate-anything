@@ -799,7 +799,6 @@
    "agentic": [
     "agents-dir",
     "agents-md",
-    "claude-md",
     "claude-skills"
    ],
    "agentic_probe": "github:remotion-dev/remotion"
@@ -889,7 +888,6 @@
    "agentic": [
     "agents-dir",
     "agents-md",
-    "claude-md",
     "claude-skills"
    ],
    "agentic_probe": "github:remotion-dev/remotion"
